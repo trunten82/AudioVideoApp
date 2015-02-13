@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.alessandrolanna.audiovideoapp.VideoActivity">
+    <item android:id="@+id/switchActivity"
+        android:title="Picture"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_picture"/>
+    <item android:id="@+id/videoToAudio"
+        android:title="Audio"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/ic_action_mic"/>
+
+</menu>
